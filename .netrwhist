@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/daniel/Desktop/Materias/4sem/camadas/proj4/logs'
+let g:netrw_dirhist_6='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/notes/templates/notes'
+let g:netrw_dirhist_5='/home/daniel/Desktop/Materias/3sem/elemsist/Z01.1/.git'
+let g:netrw_dirhist_4='/home/daniel/Programming/EikiYamashiro'
+let g:netrw_dirhist_3='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/getit'
+let g:netrw_dirhist_2='/home/daniel/Desktop/Materias/4sem/tecweb/getit2'
+let g:netrw_dirhist_1='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/getit'
+let g:netrw_dirhist_0='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/notes'
+let g:netrw_dirhist_9='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/.git'
+let g:netrw_dirhist_8='/home/daniel/Desktop/Materias/4sem/tecweb/getit2/.git/info'
